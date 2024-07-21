@@ -1,0 +1,39 @@
+.main-container{
+    display: flex;
+    gap: 80px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.content-container h2{
+font-size: 22px;
+font-family:'Times New Roman', Times, serif;
+font-weight: bold;
+color: blue;
+}
+
+.description-text{
+color: maroon;
+}
+
+.content-container p{
+    font-size: 17px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.content-container i{
+    color: orange;
+}
+
+.gray{
+    color: grey;
+}
+
+.purple{
+    color: purple;
+}
+
+.price{
+    font-size: 22px;
+    color: black;
+}
